@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="74"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="595"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="82"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SpringIOCDemo/src\/main\/java&amp;lt;com.ioc.xml{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=UserRestfulDemo/src\/main\/java&amp;lt;com.rest{UserRestfulDemoApplication.java[UserRestfulDemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=newz-step2-boilerplate/C:\/Users\/P1357960\/.m2\/repository\/org\/mockito\/mockito-all\/1.10.19\/mockito-all-1.10.19.jar&amp;lt;org.mockito.asm.util(ASMifierClassVisitor.class[ASMifierClassVisitor&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=NoteRestfulMongoDemo/src\/main\/java&amp;lt;com.rest.mongo{NoteRestfulMongoDemoApplication.java[NoteRestfulMongoDemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=UserAsaProducerService/src\/main\/java&amp;lt;com.rest{UserAsaProducerServiceApplication.java[UserAsaProducerServiceApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=HackathonMockTest/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.rest{HackathonMockTestApplication.java[HackathonMockTestApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="391"/>
+			<item key="DIALOG_Y_ORIGIN" value="39"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

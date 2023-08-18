@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=RegisterUserOTT/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rest.service{IRegisterService.java[IRegisterService" modifiers="513" timestamp="1688972263522"/>
+    <typeInfo handle="=AdminServiceOTT/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.admin.feign{ItemConsumer.java[ItemConsumer" modifiers="513" timestamp="1689577416594"/>
+    <typeInfo handle="=OrderItemOTT/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rest.services{IItemService.java[IItemService" modifiers="513" timestamp="1689744168767"/>
+    <typeInfo handle="=RegisterUserOTT/C:\/Users\/P1357960\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.0.7\/spring-data-jpa-3.0.7.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.0.7=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1687702206485"/>
+    <typeInfo handle="=CartOrder/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rest.service{IItemService.java[IItemService" modifiers="513" timestamp="1690035592491"/>
+</typeInfoHistroy>

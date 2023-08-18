@@ -1,0 +1,5 @@
+package com.rest.filter;
+
+public class JWTFilter {
+
+}

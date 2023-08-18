@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+	<bean id="empObj" class="com.ioc.xml.model.Employee">
+		<constructor-arg>
+			<value>1</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>Mike</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>23</value>
+		</constructor-arg>
+	</bean><!-- here id means name of the object  for which class it will be(copy the entire path-->
+	<bean id="addObj" class="com.ioc.xml.model.Address">
+		<constructor-arg>
+			<value>1</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>Pune</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>India</value>
+		</constructor-arg>
+	</bean>
+</beans>

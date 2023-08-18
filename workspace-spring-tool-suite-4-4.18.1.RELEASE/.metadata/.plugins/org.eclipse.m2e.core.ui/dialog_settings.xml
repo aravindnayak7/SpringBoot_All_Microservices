@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\P1357960\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\UserRestfulDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\P1357960\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Hackathonfinal\hackathon_angular_spring_boot\HackathonTest"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\HubSpotGateway"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\EurekaDiscverServer"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\RoomBookingService"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\BookingJPA_MS"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\adminService"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\LoginServiceApi"/>
+			<item value="C:\ActuallJavaAssignments\CapstoneProjectFiles\HubSpotApplication\HubSpotApplication\Hubspot_Backend\UserRegistrationApi"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\RoomBookingService"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\LoginServiceApi"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\HubSpotGateway"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\EurekaDiscverServer"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\BookingJPA_MS"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\adminService"/>
+			<item value="C:\ActuallJavaAssignments\BackupCapstoneproject\FinalCapstoneProject\HubSpotApp-main (2)\HubSpotApp-main\Hubspot_Backend\UserRegistrationApi"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,14 @@
+package com.rest.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
+public class Customer {
+	@Id
+	private int id;
+	private String firstName;
+	private String password;
+	private String email;
+	
+}

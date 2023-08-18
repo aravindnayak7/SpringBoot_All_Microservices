@@ -1,0 +1,16 @@
+package com.rest.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/api/v1")
+//http://localhost:8080/api/v1/
+//http://localhost:8082/api/v1/addEmp
+//http://localhost:8082/api/v1/getAllemps
+//http://localhost:8082/api/v1/deleteemp
+//http://localhost:8082/api/v1/updateemp
+//http://localhost:8082/api/v1/getempbyid
+public class CustomerController {
+
+}
